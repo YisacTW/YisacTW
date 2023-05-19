@@ -3,7 +3,7 @@
 - 🌱 I’m an aspiring Software Engineer/Program Manager currently attending university as a junior student
 - 💞️ I’m looking to collaborate on projects that require Javascript, C++, Python or Java programming
 
-- 📫 How to reach me You can reach me via my email address yisactsegaye@protonmail.com
+- 📫 You can reach me via my email address yisactsegaye@protonmail.com
 
 <!---
 YisacTW/YisacTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
